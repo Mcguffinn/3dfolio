@@ -234,6 +234,7 @@ import {
         },
       ],
       image: apod,
+      web_link: "https://affectionate-kilby-98e840.netlify.app/",
       source_code_link: "https://github.com/Mcguffinn/Photo-of-the-day-",
     },
     {
@@ -263,6 +264,7 @@ import {
         },
       ],
       image: playcast,
+      web_link: "mcguffinn.pythonanywhere.com/",
       source_code_link: "https://github.com/Mcguffinn/Playcast",
     },
     {
@@ -280,6 +282,7 @@ import {
         },
       ],
       image: greenportal,
+      web_link: "http://mygreenportal.com/",
       source_code_link: "https://mygreenportal.com",
     },
     {
@@ -305,6 +308,7 @@ import {
         },
       ],
       image: kwikheim,
+      web_link: "https://dancing-sopapillas-e16321.netlify.app/",
       source_code_link: "https://github.com/Mcguffinn/Kwikheim",
     },
   ];
